@@ -1,0 +1,4 @@
+apps:
+  - id: motioneye
+    repo: https://github.com/guilhermecv/apps
+    path: apps/motioneye

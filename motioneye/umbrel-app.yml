@@ -1,0 +1,10 @@
+id: motioneye
+name: MotionEye
+version: 0.1.0
+description: "Sistema de monitoramento de câmeras via web"
+category: Home & Automation
+icon: https://raw.githubusercontent.com/ccrisan/motioneye/master/docs/logo.png
+developer: "Chris Carisan"
+website: "https://github.com/ccrisan/motioneye"
+source: "https://github.com/ccrisan/motioneye"
+submitter: "Guilherme Camargo"

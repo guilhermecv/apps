@@ -1,0 +1,11 @@
+version: "3.7"
+services:
+  motioneye:
+    image: ccrisan/motioneye:master-amd64
+    container_name: motioneye
+    ports:
+      - "8765:8765"
+    volumes:
+      - /umbrel/app-data/motioneye/etc:/etc/motioneye
+      - /umbrel/app-data/motioneye/lib:/var/lib/motioneye
+    restart: unless-stopped
