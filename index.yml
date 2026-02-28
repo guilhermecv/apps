@@ -1,4 +1,2 @@
-apps:
-  - id: motioneye
-    repo: https://github.com/guilhermecv/apps
-    path: motioneye
+id: "guilhwemw" # Choose the ID for your app store. This should contain only alphabets ("a to z") and dashes ("-").
+name: "GuilhermeAppStore" # Choose the name of your app store. It will show up in the UI as "<name> App Store".
